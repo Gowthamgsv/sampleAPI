@@ -1,0 +1,14 @@
+{
+  "User": {
+    "name": { "string": {} },
+    "online": { "boolean": {} },
+    "picture": { "regexp": "https://…" }
+  },
+  {
+  "User": {
+    "name": { "string": {} },
+    "online": { "boolean": {} },
+    "picture": { "regexp": "https://…" }
+  }
+}
+}
